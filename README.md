@@ -54,7 +54,7 @@ if __name__ == "__main__":
 ```
 ---
 
-More Efficient Web Scraper
+More efficient website fetcher example
 --------------------------
 
 Using Soon's decorator syntax, we can define a function that executes in multiple threads.  Individual calls to `download` are non-blocking, but we can largely ignore this fact and write code identically to how we would in a synchronous paradigm. 

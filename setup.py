@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="soon",
-    version="0.1",
+    version="0.2",
     author="Lukas Šalkauskas",
     python_requires='>=3.7.0',
     author_email="halfas.online@gmail.com",
